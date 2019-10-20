@@ -13,7 +13,9 @@
 See Swagger Documentation:
 
     localhost:5000/documentation
-    
+ 
+#### npm module swagger-jsdoc will help to write documentation in js file.
+
 Understand documentation of swagger:
    
     /**
