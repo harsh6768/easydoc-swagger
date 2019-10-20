@@ -9,5 +9,10 @@
 2. install all npm modules
 
        npm install 
+       
+See Swagger Documentation:
+
+    localhost:5000/documentation
+    
 
     
